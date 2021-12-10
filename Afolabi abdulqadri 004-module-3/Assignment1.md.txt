@@ -1,0 +1,59 @@
+List of Service models
+
+.Platform as a Service
+PaaS provides developers with a framework on which they can build and customize applications. The enterprise or a third-party provider can manage all servers, storage, and networking, while the developers can manage the applications.
+
+use case
+1. Faster Time to Market – automating many previous manual steps reduces time to market dramatically (months to hours in some cases)
+
+2. Lower Cost – helping to resource share applications saves infrastructure costs, automation reduces labor (at least 50% reduction)
+
+3. Lower Capital Commitment – start with small deployments and grow automatically as demand builds  (90% reduction)
+
+4. Manage many applications easier – Application, Tenant, user management, security, load balancing common helps systematize otherwise duplicative functions.
+
+5. More Responsive – automated deployment means being able to deploy changes faster, automated scaling means responding to demand faster
+
+example
+1. AWS Lambda     
+2. AWS Elastic Beanstalk
+3. Azure SQL
+4. AWS S3
+5. AWS DynamoDB
+6. Google App Engine
+
+Infrastructure as a Service
+Infrastructure as a Service (IaaS) is a compute resource that is highly scalable and automated. IaaS allows users to access and monitor computers, networking, storage, and other services entirely on their own. Instead of purchasing hardware outright, IaaS allows businesses to purchase resources on-demand and as-needed.
+
+use case
+
+1.Disaster Recovery.
+2. Program Testing & Development.
+3. Hosting Complex Websites.
+4. High Computing Performance.
+5. Big Data Analysis.
+
+example
+1. Virtual Machines
+2. AWS 
+3. Google Compute Engine (GCE)
+4. IBM Cloud Virtual Servers
+5. Microsoft Azure
+
+Software as a Service
+SaaS makes use of the internet to deliver applications to users that are managed by a third-party vendor. The majority of SaaS applications run directly ina web browser, so there are no client-side downloads or installations required.
+
+use case
+
+1.Startups and small businesses that need to launch an ecommerce site quickly and don't have time to deal with server or software issues.
+2.Short-term projects that necessitate quick, simple, and cost-effective collaboration
+3.Tax software, for example, is an example of an application that isn't used very often.
+4.Applications that require access to both the web and mobile devices
+
+example
+1. Google Workspace
+2. Microsoft Dynamics CRM
+3. IBM Watson Assistant
+4. Salesforce
+5. Workday
+6. Slack

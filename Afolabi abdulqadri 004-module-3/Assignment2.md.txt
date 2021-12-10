@@ -1,0 +1,158 @@
+1. AWS
+
+Amazon is considered one of the dominant IaaS providers because of its market value, consumption and versatile IaaS products. Indeed, Amazon Web Series has clients from more than 190 countries of the world. In addition, it exists in 21 different regions all over the world along with 66 availability zones to improve reliability.
+
+AWS as an IaaS platform provides high-end APIs to manage the low-end tasks related to servers, including physical computing, data distribution etc. As a result, you will not have to interact with the infrastructure directly so you can save your time.
+
+Core Features
+Identity & Access management — Amazon Web Services provides the feature of IAM where you can manage all the users of your team. You can assign permissions to users according to their role in the team, so they are able to perform their own duties only.
+
+AWS Free Tier — Amazon Web Services provides a Free Tier service for new customers to get hands-on experience. It helps the customers to learn before they start spending money on the IaaS services of Amazon Web Services.
+
+Elastic Load Balancing — Amazon Web Services provides the feature of load balancing. It helps the application traffic to be distributed on multiple instances. It also assists in boosting the performance of the application by dividing traffic among different instances.
+
+Cost Management — You can easily control and optimize your AWS cost & usage using the AWS cost management feature.
+
+2. Google Cloud Platform
+
+Google offers Google Cloud Platform as an IaaS provider, which is considered one of the best among all because of Google-backed characteristics. Surely, Google provides an infrastructure where customers do not need to worry about the servers or complex cloud operations.
+
+Moreover, businesses can emphasize writing, deploying and managing the software applications without taking care of handling the infrastructure. Google Cloud will manage and scale all infrastructure resources on it without engaging the customer.
+
+Core Features
+Big Data Analysis — Most of the users utilize Google cloud services for big data. They need to store and analyze big data, which consumes a lot of processing power. Google Cloud Platform as IaaS, is appropriate for big data analysis because it can handle large workloads seamlessly.
+
+Efficient & Reliable — The customers can acquire the resources anytime according to their needs. You can expand the resource whenever you need it, so it reduces the delays and avoids latency due to low resources.
+
+Scalable — Scalability is vital for each application to provide the best performance all the time. Applications require more resources at different times because of more traffic or usage. Google Cloud Platform provides the capability to the users to scale the resources up and down anytime as per need.
+
+Testing & Development — This IaaS platform provides a comfortable and reliable environment to run the testing and development cycles for the software applications.
+
+3. Azure
+
+Azure is another big name among the top cloud computing service providers launched in 2010. Azure is one of the most popular Infrastructure as a Service supplies a wide range of features and benefits to run and manage your software applications.
+
+With the Azure IaaS platform, you do not have to handle the low-end details like physical computing, etc. Undoubtedly, businesses can focus on scripting, deploying, and scaling applications without getting engaged with the back-end procedures.
+
+Core Features
+Cloud Backup & Recovery — Azure emphasizes the provision of reliable solutions to customers. In this regard, it provides cost-effective backups and disaster recovery services to users. In addition, Azure allows you to recover entire data and files in seconds.
+
+High-Performance Computing — The developers always need high-performance computing for larger and complex applications to provide the best service to their customers. By maximizing the performance and cost-efficiency, programmers can run compute-intensive workloads effectively.
+
+Resources Management — Cloud resource management is one of the most complex tasks. However, you can easily automate and optimize your cloud resource with this IaaS supplier.
+
+Scalability — You can scale your storage and workloads easily according to your requirements in Azure IaaS.
+
+Security — Azure IaaS provides a highly secure infrastructure with industry-leading intelligence and built-in security controls. It does not compromise the security of your infrastructure to execute your application safely.
+
+4. DigitalOcean
+
+DigitalOcean is one of the most famous names among the top Infrastructure as a Service providers. It is headquartered in New York, and its data centres exist around the globe. Indeed, it is a platform where you can manage and scale your software applications easily and efficiently.
+
+In addition, you can get on-demand resources, including storage, infrastructure components, etc. Also, DigitalOcean provides different features and services to the customers to handle the infrastructure and run their applications smoothly.
+
+Core Features
+Simple & Easy to Use — Managing the infrastructure on different IaaS platforms is very complicated. However, Digital Ocean provides a very interactive and easy to use interface where users do not have to do courses. It is effortless to use. Developers become familiar with this IaaS platform within a short period of time.
+
+RESTful API — DigitalOcean also offers RESTful API to the users to manage the infrastructure effortlessly. APIs are very helpful to manage everything regarding infrastructure quickly.
+
+Monitoring — Monitoring services are essential to keep track of the performance of applications and resources. You can monitor your application & resources to take quick decisions for better performance.
+
+Cloud Firewalls — Cloud Firewalls is another great advantage of using this IaaS provider, which can be used to filter out unwanted traffic. It improves the performance and also secures your application from distinct threats.
+
+5. Linode
+
+Linode is another reliable & most inexpensive IaaS solution. Linode was founded in 2003, and it has more than 1 Million customers all across the world. Linode provides you with the environment to deploy, administer and scale your applications without directly handling the infrastructure-related tasks. You can deploy your applications with Linux Virtual Machines & handle all your tasks easily with the help of different Linode features.
+
+Core Features
+DDoS Protection — DDoS attacks are the most common security threat for software applications. Users want to avoid DDoS attacks, but they always need to pay to attain this service. Luckily, Linode provides free DDoS protection to the customer for security & reliability.
+
+User-Friendly Cloud Manager — You can use a highly interactive Cloud Manager to deploy and manage virtual machines with Linode. Definitely, you can configure networking and control user accounts from Cloud Manager easily.
+
+LinodeAPI — LinodeAPI is a beneficial source of programmatic access to Linode products and services. You can configure, administer and deploy seamlessly by using LinodeAPI.
+
+Libraries — It is also easy to incorporate Linode products and services in your software application. You only need to install Linode’s official programming language libraries to embed Linode products in your application.
+
+Third-Party Tools — Linode also provides you with the facility to use third party tools to install and manage Linode products and services.
+
+6. Vultr
+
+Among the best cloud computing services providers, Vultr is one of the top Infrastructure as a Service providers. Vultr has more than 17 data centres located globally. Furthermore, this IaaS platform has also launched more than 40 million cloud servers.
+
+100% SSD storage, low latency, easy deployment and user-friendly interface are also some remarkable characteristics of Linode. The mixture of reliable IaaS properties and inexpensive pricing make it a perfect choice for developers and businesses.
+
+Core Features
+Powerful Control Panel — Vultr grants a compelling control panel to manage all the tasks related to infrastructure. It helps in administering infrastructure easily with getting into complex tasks.
+
+Manage API Access — You can create APIs easily and effectively with Linode. After creating APIs, you have to manage the access of the API. You can set up its access by creating an API key from your main account so it can be accessed by the user with the API keys.
+
+Scale Easily — The easy-to-use interface of Vultr helps to scale the resources rapidly. Developers can manage the resources through a highly interactive interface in a concise period of time. This feature also assists in avoiding compromise on the performance of applications.
+
+Track Server Health — The monitoring of server health is beneficial to maintain the performance of the application. You can track the server health through health graphs to make decisions quickly when the graph reaches the peak.
+
+7. Alibaba Cloud
+
+Alibaba Cloud is a Chinese Infrastructure as a Service provider, which is also known by the name of Aliyun. It is a subsidiary of Alibaba, which provides a variety of reliable IaaS solutions. Alibaba Cloud was founded in 2009 and provided its reliable services to enterprises and organizations in more than 200 countries.
+
+It has 69 zones in 23 different regions to provide a good performance of applications globally. It provides a lot of features to handle all IaaS related tasks effectively, which is the reason for becoming one of the best IaaS providers.
+
+Core Features
+Data Capacity Scaling — Most of the businesses grow when they extend cloud services, and they need to get more resources to get better performance. Alibaba Cloud provides scalable storage facilities where users can increase the distributed storage capacity quickly according to the need.
+
+Monitoring– Real-time monitoring is essential to track performance. You can monitor your CPU & storage usage with the Alibaba IaaS solution. Users can take actions based on these monitoring results to avoid a lack in performance of the applications.
+
+Automatic Backups & Recovery — This platform provides the system which automatically keeps the backups of the instances. So in case of any data loss, you can get your data and files recovered in a short time through the disaster recovery service of Alibaba Cloud.
+
+8. IBM Cloud
+
+IBM is an information technology company that provides a set of cloud computing services to the customer with the name of IBM Cloud. IBM Cloud is one of the best Infrastructure as a Service providers, which is trusted by the 10 largest banks & 8 largest airline companies.
+
+IBM Cloud offers extraordinary IaaS solutions to its users. Businesses love to use IBM’s IaaS platform because of its great reliability, integration and tracking characteristics.
+
+Core Features
+Availability Monitoring– The availability of the resources is critical to provide the best performance for the users. You can run the synthetic tests to track the performance issues and fix them before it affects the users of the applications.
+
+IBM Cloud CLI — The command-line interface of IBM is beneficial to perform different tasks. You can easily manage and scale the resources of your infrastructure by the IBM Cloud CLI.
+
+Activity Tracker — The IBM Cloud is maintaining all the activities on the cloud. You can view and audit all the activities of every user in your team on the IBM Cloud.
+
+Integration — You can easily integrate your applications and data using the APIs, networking, and messaging tools of IBM Cloud.
+
+9. Oracle Cloud
+
+Oracle introduced its cloud infrastructure in 2016, and right now, it is providing more than 70 services to international users. Indeed, Oracle Cloud is another one of the best Infrastructure as a Service providers, which has spread worldwide to provide extraordinary cloud services with brilliant features.
+
+Although Oracle Cloud is covering 29 regions in terms of the provision of cloud services. But, the company has a plan to extend it to 38 regions by the end of 2021. With this IaaS platform, it is easy to extend and administer an application on the cloud without handling the in-depth tasks about the infrastructure.
+
+Core Features
+Load Balancing — Load Balancing is one of the most useful features of Oracle Cloud to maintain the performance of the applications. Load Balancing feature divides the incoming traffic among all the instances equally, so a single instance does not overload. Therefore, it is conducive in maintaining the performance of the applications and utilization of the resources.
+
+Scalability — The Oracle Cloud provides the resources according to your requirements. The requirements of storage and processing always change over time. That is why it provides scalable resources to the customers so they can expand them easily and quickly and avoid lack of performance.
+
+Free Tier — Businesses can use Oracle Free Tier to start to get hands-on experience with it. It is convenient to learn the different functionalities of this IaaS solution.
+
+10. RackSpace
+
+RackSpace is another powerful Infrastructure as a Service provider. You can manage your applications and resources easily on the cloud by breaking the traditional rules to manage the cloud. RackSpace will manage the major complex functions of the infrastructure so you can focus on creating and deploying your applications. It also provides scalable & flexible resources so you can manage them to get the best performance.
+
+Core Features
+Cloud Strategy — RackSpace assists the customers in choosing the right cloud strategy. The right cloud strategy will help the users in accelerating the innovation and the optimization of the performance with cost-effective solutions.
+
+Scalability — RackSpace provides flexible and scalable resources for your application. The ever-changing usage of applications always requires scalable solutions to manage the resources quickly for the best performance. In addition, you can expand your resources whenever you want to give the best user experience.
+
+10+ Serverspace
+
+Serverspace is an international IaaS provider that offers cloud servers in data centers in the USA, Europe, Russia, and other countries. And the whole process of server creation takes about 40 seconds.
+
+Serverspace supports open API and CLI tools for integrating client services. In addition to that, it provides S3 compatible storage and managed virtual infrastructure supported by Serverspace technical experts.
+
+Core features
+Pay-as-you-go — Serverspace charges services every 10 minutes, therefore, users pay only for the time when the virtual machine is actually used. For example, if you deploy a server for 30 minutes and then delete it, you will be charged only for these 30 minutes. 
+
+24/7 support — Provider offers technical support via phone, control panel, and website chat. All channels are available day and night.
+
+Unique platform — Serverspace is a provider that allows the deployment of a virtual machine on the vStack platform. The platform is based on a unique combination of software — bhyve hypervisor and FreeBSD.
+
+Intel Xeon processors — Provider offers to create virtual machines with the most up-to-date scalable processors of the second generation with 3.1 GHz frequency.
+
+Windows OS — Serverspace is one in the minority of providers that deploys servers on Windows. And most importantly, the price is one of the lowest on the market and includes the original Windows Server license.
